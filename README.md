@@ -10,6 +10,11 @@ This project is a Smart Door Lock System that utilizes an Arduino Mega and an HC
 - **Password Management:** Users can change their password, which is stored in EEPROM for persistence.
 - **Relay Control:** Controls a relay to lock/unlock the door.
 
+## Working Demo Video
+
+![Smart Door Lock System Demo](proof.mp4)
+
+
 ## Installation
 
 To set up the project locally, follow these steps:
