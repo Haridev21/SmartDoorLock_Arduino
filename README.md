@@ -2,6 +2,7 @@
 
 ## 🎥 [Click here for demo video](https://drive.google.com/drive/folders/1EyRwp7L2ESP2sx44u6QuYgn9d9g-N-rZ?usp=sharing "🔼 Google Drive ") 🎥
 
+<img src="img.jpeg" alt="Smart Door Lock" width="400" height="300">
 
 This project is a Smart Door Lock System that utilizes an Arduino Mega and an HC-05 Bluetooth module to control a door lock. The system features a keypad for password entry, an LCD for user feedback, and the ability to change the password. 
 
